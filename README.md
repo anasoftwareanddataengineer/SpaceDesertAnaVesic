@@ -6,6 +6,8 @@
  
  First level is just a hint - mirrors are cassualy walking around, rarely reflecting the Cowboy. If he attacks them, they will chase after him. But in order to move to the next level he will need to face himself, even if the first step is to destroy the mirrors, and to go further to find the right one to discover the truth and himself alone.
  
+ wasd and mouse movement, sprint, crouch, jump, shooting and coliding with objects and enemies, enemies walking around and chasing us when we attack them. Once killed, clone of the enemy disappears. 
+ 
  Demo to the first lvl:
  https://youtu.be/CtrHrFLvYBo
 
