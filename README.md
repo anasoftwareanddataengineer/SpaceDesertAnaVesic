@@ -8,6 +8,9 @@
  
  wasd and mouse movement, sprint, crouch, jump, shooting and coliding with objects and enemies, enemies walking around and chasing us when we attack them. Once killed, clone of the enemy disappears. 
  
+ Retro version:
+ https://youtu.be/ey7yDlshow8
+ 
  Demo to the first lvl:
  https://youtu.be/CtrHrFLvYBo
 
